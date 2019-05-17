@@ -69,7 +69,7 @@ $(document).ready(function(){
 
 	// Carousel
 	$('.carousel').carousel({
-      interval: 4000
+      interval: 3000
     });
 
     $('.form-control').on("focus", function(){
